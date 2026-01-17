@@ -1,2 +1,4 @@
 2026-01-16: gate - rev started  
             dbms - first rev done
+2026-01-17: dmbs topic wise test - 1 solved
+            module 1 n 2 practice lecture qstns done
