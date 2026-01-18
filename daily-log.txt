@@ -4,3 +4,4 @@
             module 1 n 2 practice lecture qstns done
             Normal forms concepts(decompostition, normaliztion, problems)
 2026-01-18: relational algerbra
+            topic wise test - 2 solved
