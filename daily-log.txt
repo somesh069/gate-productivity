@@ -5,3 +5,5 @@
             Normal forms concepts(decompostition, normaliztion, problems)
 2026-01-18: relational algerbra
             topic wise test - 2 solved
+2026-01-19: SQL rev done
+            topic wise test - 3 solved
