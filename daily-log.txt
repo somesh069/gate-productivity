@@ -13,3 +13,4 @@
 2026-01-21: AI mod 1 revision done
             DOML mock test - 1 given
             mock test solutions done, error notes created
+            i did it...i really solved the paper...noice
