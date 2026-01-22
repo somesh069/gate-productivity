@@ -15,3 +15,4 @@
             mock test solutions done, error notes created
             i did it...i really solved the paper...noice
 2026-01-22: AI - Informed Search, And/Or, Local Search rev done
+            DOML AI test -1 solved and solutions done
