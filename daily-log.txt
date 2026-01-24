@@ -19,3 +19,4 @@
 2026-01-23: DOML AI test -2 solved and solutions partially done
             remaining problem solution revised
 2026-01-24: Logic revision done
+            Gate da 2025 - paper solving
