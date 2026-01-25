@@ -20,3 +20,5 @@
             remaining problem solution revised
 2026-01-24: Logic revision done
             Gate da 2025 - paper solving
+            some more qstn solved
+2026-01-25: DBMS revised and Subject test finished
