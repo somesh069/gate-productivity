@@ -26,3 +26,4 @@
 2026-01-26: python mod 1 basics revision done
             python mod 2 done
             python test - 1 given
+            test - 1 solutions solved
