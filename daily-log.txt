@@ -23,3 +23,4 @@
             some more qstn solved
 2026-01-25: DBMS revised and Subject test finished
             answers solved
+2026-01-26: python revision done
