@@ -32,3 +32,4 @@
             pyhton mod 3 half done
 2026-01-28: Probability - conditional probability done
             basic level test - 4 given
+2026-01-29: Total prob - marginal, joint, conditional, qstns
