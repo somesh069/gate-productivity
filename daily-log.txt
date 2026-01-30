@@ -33,3 +33,4 @@
 2026-01-28: Probability - conditional probability done
             basic level test - 4 given
 2026-01-29: Total prob - marginal, joint, conditional, qstns
+2026-01-30: python - exception handling
