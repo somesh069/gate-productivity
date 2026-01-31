@@ -17,6 +17,7 @@
 2026-01-22: AI - Informed Search, And/Or, Local Search rev done
             DOML AI test -1 solved and solutions done completely 
 2026-01-23: DOML AI test -2 solved and solutions partially done
+
             remaining problem solution revised
 2026-01-24: Logic revision done
             Gate da 2025 - paper solving
@@ -34,3 +35,4 @@
             basic level test - 4 given
 2026-01-29: Total prob - marginal, joint, conditional, qstns
 2026-01-30: python - exception handling
+2026-01-31: Advance level test - 1 given
